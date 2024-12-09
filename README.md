@@ -15,7 +15,7 @@ The contents of the `rawdata.csv` are organised as follows:
 * ***gender***: Participant's gender
 * ***age***: Participant's age
 * ***educationlevel***: The participant's highest completed education level. When their qualification was not listed, they could manually enter it
-* ***educaionlevel_7_TEXT***: Contains the manual entries for *educationlevel*
+* ***educaionlevel_7_TEXT***: Contains the manual entries for *educationlevel* (if applicable)
 * ***nationality***: The participant's nationality
 * ***NEP1:NEP15***: The participant's answers to each of the 15 items of the New Environmental Paradigm questionnaire. See the `NewEnvironmentalParadigm.pdf` file for a complete list of items.
 * ***BFI1:BFI44***: The participant's answers to each of the 44 items of the Big Five Inventory questionnaire. See the `BigFiveInventory.pdf` file for a complete list of items.
