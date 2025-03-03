@@ -1,5 +1,5 @@
 ## Pers-Pers-Dataset
-This respository includes all participant data gathered for the study *"(Un)Sustainable Personalities: how personality shapes and predicts persuasive writing for sustainability"*. Specifically, the following files are included:
+This respository includes all participant data gathered for the study *"(Un)sustainable Personalities: The Role of Personality When Persuading To Adopt Sustainable Behaviours"*. Specifically, the following files are included:
 
 * A `prompts.md` file that displays all the writing prompts which were used in the study
 * A `NewEnvironmentalParadigm.pdf` file displaying all the items of the New Environmental Paradigm questionnaire, which was used in the study
